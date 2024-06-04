@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.top-link-bar {
+    background-color: #b3ff00;
+    font-weight: bold;
+    color: #177c0e;
+   font-size: 12px;
+   columns:auto 3;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    color: #177c0e ;
+    font-family:Papyrus, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li {
+    color: #177c0e;
+    padding-left: 15%;
+}
